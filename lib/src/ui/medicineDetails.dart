@@ -3,7 +3,6 @@ import '../models/medicine.dart';
 import 'package:provider/provider.dart';
 import '../global_bloc.dart';
 import '../constants.dart';
-import 'package:flutter/widgets.dart';
 
 class MedicineDetails extends StatelessWidget {
   final Medicine medicine;

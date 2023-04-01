@@ -7,8 +7,6 @@ import 'dart:math';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import '../utils/timeConverter.dart';
 import '../models/medicine.dart';
-import '../models/days.dart';
-import '../models/duration.dart';
 import '../models/errors.dart';
 import '../models/medicineType.dart';
 import 'newEntryBloc.dart';
