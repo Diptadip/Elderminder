@@ -60,3 +60,9 @@ Our app will provide the following features:
 The detailed Prototype of the application is available at https://www.figma.com/file/94ylsO1vXycDASMTjmavmG/Elderminder?node-id=0-1&t=Olp62EVillLU7LeJ-0 
 
 The detailed Demo video of the Prototype of our App is available at https://youtu.be/QwTaRiExmtI
+
+## Team Members
+- [Diptadip Mallik](https://github.com/Diptadip)
+- [Shilpa Kanjilal](https://github.com/ShilpaKanjilal12)
+- [Hiren Achhaada](https://github.com/Hirenachhaada)
+- [Astha Singhal](https://github.com/Astha-Singhal-123)
