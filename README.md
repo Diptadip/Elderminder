@@ -58,4 +58,5 @@ Our app will provide the following features:
 - **Video Call:** Video call to close friends, family and relatives instantaneously.
 
 The detailed Prototype of the application is available at https://www.figma.com/file/94ylsO1vXycDASMTjmavmG/Elderminder?node-id=0-1&t=Olp62EVillLU7LeJ-0 
-The detailed Prototype video of our App is available at https://youtu.be/QwTaRiExmtI
+
+The detailed Demo video of the Prototype of our App is available at https://youtu.be/QwTaRiExmtI
