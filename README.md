@@ -41,6 +41,7 @@ To run the app select a target device from your code editor and run the followin
 ```bash
   flutter run
 ```
+The apk can also be downloaded from [here](https://drive.google.com/file/d/1VQtS7kvCm2I2BpzbbVy_n0_mZsiIWuWE/view?usp=share_link) . Install and launch the app on Android device.
 
 
 ## Our Plan
@@ -57,3 +58,4 @@ Our app will provide the following features:
 - **Video Call:** Video call to close friends, family and relatives instantaneously.
 
 The detailed Prototype of the application is available at https://www.figma.com/file/94ylsO1vXycDASMTjmavmG/Elderminder?node-id=0-1&t=Olp62EVillLU7LeJ-0 
+The detailed Prototype video of our App is available at https://youtu.be/QwTaRiExmtI
