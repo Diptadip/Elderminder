@@ -14,6 +14,34 @@ Improved Quality of their Lives
 
 Our app will provide these features to seniors so that they can lead a healthy life.
 
+## Getting Started with the App
+
+- As this App is build with Flutter, to run the App make sure flutter is installed on your device, To Download and Install Flutter, follow the steps here - [Download and Install Flutter](https://docs.flutter.dev/get-started/install)
+
+## Deployment
+
+To check Flutter in properly installed on your device, run
+
+```bash
+  flutter doctor
+```
+
+Download this Repository as a zip and extract or clone it using 
+
+```bash
+  git clone https://github.com/Diptadip/Elderminder.git
+```
+cd into the folder and run the following command to install dependencies
+
+```bash
+  flutter pub get
+```
+To run the app select a target device from your code editor and run the following command
+
+```bash
+  flutter run
+```
+
 
 ## Our Plan
 
