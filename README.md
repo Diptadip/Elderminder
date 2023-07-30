@@ -1,5 +1,9 @@
 # Elderminder
 
+![](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+
+
 A Flutter Application for the Old.
 
 ## Motivation to Create an App for Elders
