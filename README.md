@@ -6,6 +6,8 @@
 
 A Flutter Application for the Old.
 
+### DSC IITP Repo - https://github.com/dsciitpatna/Compose_Camp_2022_App
+
 ## Motivation to Create an App for Elders
 
 There are several challenges that old people face and hence there are many reasons for making an app for old people which will:
